@@ -1,0 +1,3 @@
+Placeholder to trigger Cloudflare Workers Builds.
+GitHub's "Sync fork" does not emit a push webhook, so Workers Builds never fires after syncing.
+Touch this file to trigger one build. Upstream never uses this path, so it will not conflict.
